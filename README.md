@@ -3,6 +3,8 @@ A tool to fetch friends of anyone with private friend list
 
 When someone sets their friend list to private, we can only see our mutual friends with them. This tool allows us to fetch the friend list even tho they've set it to private. This won't always fetch each and every friend but will fetch most of them. To fetch maximum friends, we can use a common name list instead of iterating through each letter.
 
+This can be useful for OSINT stuffs
+
 ## Requirements
 
 * Install selenium
